@@ -3,6 +3,11 @@ My adventure to become a better software engineer.
 
 # Fundamentals
 
+## Discrete Mathematics
+
+### MOOC
+* [Discrete Math](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
+
 ## Hardware
 
 ### MOOC
