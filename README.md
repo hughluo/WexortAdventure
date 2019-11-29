@@ -20,6 +20,14 @@ My adventure to become a better software engineer.
 * [Algorithms, Prienceton University, Coursera](https://algs4.cs.princeton.edu/home/)
 * [Algorithms, Standford University, Coursera](https://www.coursera.org/specializations/algorithms)
 
+# Professional
+* [The Clean Coder](https://www.oreilly.com/library/view/the-clean-coder/9780132542913/)
+
+# Software Design
+## Book
+* [Clean Code](https://www.oreilly.com/library/view/clean-code/9780136083238/)
+* [Code Complete](https://www.oreilly.com/library/view/code-complete-second/0735619670/)
+
 # System Design
 ## Book
 * [Designing Data Intensive Applications](https://dataintensive.net/)
