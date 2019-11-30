@@ -58,7 +58,8 @@ A list of resources I have learned from.
 * [Designing Data Intensive Applications](https://dataintensive.net/)
 
 
-# Machine Learning & Deep Learning
+# Specific Domain
+## Machine Learning & Deep Learning
 
 
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
@@ -68,6 +69,9 @@ A list of resources I have learned from.
 * [Machine Learning, Standford University, Coursera](https://www.coursera.org/learn/machine-learning)
 * [Convolutional Neural Networks for Visual Recognition, Standford University](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 * [Neural Networks for NLP, Carnegie Mellon University](https://www.youtube.com/watch?v=pmcXgNTuHnk&list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs)
+
+## Process Mining
+* [Process Mining: Data science in Action, TUe, Coursera](https://www.coursera.org/learn/process-mining)
 
 # Language
 
