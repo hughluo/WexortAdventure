@@ -75,11 +75,13 @@ My adventure to become a better software engineer.
 
 
 * [Learn Python the Hard Way](https://books.google.de/books/about/Learn_Python_3_the_Hard_Way.html?id=93YpDwAAQBAJ&source=kp_book_description&redir_esc=y)
-
+* [Introduction to Programming in Python](https://introcs.cs.princeton.edu/python/home/)
 * [Python Cookbook](http://shop.oreilly.com/product/0636920027072.do)
 * [Fluent Python](http://shop.oreilly.com/product/0636920032519.do)
 * [Flask Web Development](https://www.oreilly.com/library/view/flask-web-development/9781491991725/)
 * [CPython internals: A ten-hour codewalk through the Python interpreter source code](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
+* [python-pattern](https://github.com/faif/python-patterns)
+* [Python Patterns](https://python-patterns.guide/)
 
 ## Go
 
