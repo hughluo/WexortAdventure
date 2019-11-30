@@ -103,10 +103,10 @@ A list of resources I have learned from.
 
 
 
-[freecodecamp](https://www.freecodecamp.org/)
+* [freecodecamp](https://www.freecodecamp.org/)
 
 ## C++
 
 
 
-[Programm Design and Algorithm, Peiking University, Coursera](https://www.coursera.org/specializations/biancheng-suanfa)
+* [Programm Design and Algorithm, Peiking University, Coursera](https://www.coursera.org/specializations/biancheng-suanfa)
