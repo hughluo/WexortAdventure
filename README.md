@@ -79,6 +79,7 @@ My adventure to become a better software engineer.
 * [Python Cookbook](http://shop.oreilly.com/product/0636920027072.do)
 * [Fluent Python](http://shop.oreilly.com/product/0636920032519.do)
 * [Flask Web Development](https://www.oreilly.com/library/view/flask-web-development/9781491991725/)
+* [CPython internals: A ten-hour codewalk through the Python interpreter source code](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
 
 ## Go
 
