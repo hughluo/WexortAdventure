@@ -71,7 +71,7 @@ A list of resources I have learned from.
 * [Neural Networks for NLP, Carnegie Mellon University](https://www.youtube.com/watch?v=pmcXgNTuHnk&list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs)
 
 ## Process Mining
-* [Process Mining: Data science in Action, TUe, Coursera](https://www.coursera.org/learn/process-mining)
+* [Process Mining: Data science in Action, Eindhoven University of Technology, Coursera](https://www.coursera.org/learn/process-mining)
 
 # Language
 
