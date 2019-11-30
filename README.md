@@ -19,6 +19,10 @@ A list of resources I have learned from.
 
 * [nand2tetris part1](https://www.coursera.org/learn/build-a-computer)
 
+## Computation
+
+* [Understanding Computation](https://computationbook.com/)
+
 ## Network
 
 
