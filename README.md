@@ -1,5 +1,6 @@
 
 My adventure to become a better software engineer.
+A List of resources I have learned from.
 
 # Fundamentals
 
