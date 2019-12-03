@@ -118,3 +118,8 @@ A list of resources I have learned from.
 
 
 * [Programm Design and Algorithm, Peiking University, Coursera](https://www.coursera.org/specializations/biancheng-suanfa)
+* [Programming Paradigm, Standford University](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PLD28639E2FFC4B86A)
+
+## C
+
+* [Programming Paradigm, Standford University](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PLD28639E2FFC4B86A)
