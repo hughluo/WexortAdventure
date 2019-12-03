@@ -112,6 +112,7 @@ A list of resources I have learned from.
 
 
 * [freecodecamp](https://www.freecodecamp.org/)
+* [JavaScript for Web Developers](https://www.wiley.com/en-us/Professional+JavaScript+for+Web+Developers%2C+4th+Edition-p-9781119366577)
 
 ## C++
 
