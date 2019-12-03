@@ -12,12 +12,12 @@ A list of resources I have learned from.
 ## Hardware
 
 
-* [nand2tetris part1](https://www.coursera.org/learn/build-a-computer), Link to [My Repo](https://github.com/hughluo/nand2tetris)
+* [nand2tetris part1](https://www.coursera.org/learn/build-a-computer), Link to [my repo](https://github.com/hughluo/nand2tetris)
 
 ## Machine Language and Assembler
 
 
-* [nand2tetris part1](https://www.coursera.org/learn/build-a-computer), Link to[My Repo](https://github.com/hughluo/nand2tetris)
+* [nand2tetris part1](https://www.coursera.org/learn/build-a-computer), Link to [my repo](https://github.com/hughluo/nand2tetris)
 
 ## Computation
 
@@ -41,7 +41,7 @@ A list of resources I have learned from.
 
 
 
-* [Algorithms, Prienceton University, Coursera](https://algs4.cs.princeton.edu/home/)
+* [Algorithms, Prienceton University, Coursera](https://algs4.cs.princeton.edu/home/), Link to [my repo](https://github.com/hughluo/algorithms_princeton)
 * [Algorithms, Standford University, Coursera](https://www.coursera.org/specializations/algorithms)
 
 # Professional
@@ -97,14 +97,14 @@ A list of resources I have learned from.
 
 
 * [Programming with Google Go Specialization, University of California Irvine, Coursera
-](https://www.coursera.org/specializations/google-golang)
+](https://www.coursera.org/specializations/google-golang), Link to [my repo](https://github.com/hughluo/golang_uci)
 
 ## Java
 
 
 
-* [Computer Science: Programming with a Purpose, Princeton University, Coursera](https://www.coursera.org/learn/cs-programming-java)
-* [Algorithms PartI, Princeton University, Coursera](https://www.coursera.org/learn/algorithms-part1)
+* [Computer Science: Programming with a Purpose, Princeton University, Coursera](https://www.coursera.org/learn/cs-programming-java), Link to [my repo](https://github.com/hughluo/programming_with_a_purpose)
+* [Algorithms PartI, Princeton University, Coursera](https://www.coursera.org/learn/algorithms-part1), Link to [my repo](https://github.com/hughluo/algorithms_princeton)
 * [Algorithms PartII, Princeton University, Coursera](https://www.coursera.org/learn/algorithms-part2)
 
 ## Javascript
