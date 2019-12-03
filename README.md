@@ -21,7 +21,7 @@ A list of resources I have learned from.
 
 ## Computation
 
-* [Understanding Computation](https://computationbook.com/)
+* [Understanding Computation](https://computationbook.com/), Link to [my repo](https://github.com/hughluo/understanding_computation)
 
 ## Network
 
