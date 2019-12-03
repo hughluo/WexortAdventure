@@ -123,3 +123,6 @@ A list of resources I have learned from.
 ## C
 
 * [Programming Paradigm, Standford University](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PLD28639E2FFC4B86A)
+
+## Haskell
+* [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
