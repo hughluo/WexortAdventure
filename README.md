@@ -12,12 +12,12 @@ A list of resources I have learned from.
 ## Hardware
 
 
-* [nand2tetris part1](https://www.coursera.org/learn/build-a-computer) [My Repo](https://github.com/hughluo/nand2tetris)
+* [nand2tetris part1](https://www.coursera.org/learn/build-a-computer), Link to [My Repo](https://github.com/hughluo/nand2tetris)
 
 ## Machine Language and Assembler
 
 
-* [nand2tetris part1](https://www.coursera.org/learn/build-a-computer) [My Repo](https://github.com/hughluo/nand2tetris)
+* [nand2tetris part1](https://www.coursera.org/learn/build-a-computer), Link to[My Repo](https://github.com/hughluo/nand2tetris)
 
 ## Computation
 
