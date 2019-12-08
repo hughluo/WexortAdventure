@@ -92,8 +92,7 @@ A list of resources I have learned from.
 
 
 
-* [Programming with Google Go Specialization, University of California Irvine, Coursera
-](https://www.coursera.org/specializations/google-golang), Link to [my repo](https://github.com/hughluo/golang_uci)
+* [Programming with Google Go Specialization, University of California Irvine, Coursera](https://www.coursera.org/specializations/google-golang), Link to [my repo](https://github.com/hughluo/golang_uci)
 
 ## Java
 
