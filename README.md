@@ -32,8 +32,6 @@ A list of resources I have learned from.
 
 
 * [nand2tetris part2](https://www.coursera.org/learn/nand2tetris2)
-
-
 * [The LINUX Programming Interface](http://man7.org/tlpi/)
 
 
