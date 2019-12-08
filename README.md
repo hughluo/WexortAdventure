@@ -66,8 +66,6 @@ A list of resources I have learned from.
 
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 * [Deep Learning](http://www.deeplearningbook.org/)
-
-
 * [Machine Learning, Standford University, Coursera](https://www.coursera.org/learn/machine-learning)
 * [Convolutional Neural Networks for Visual Recognition, Standford University](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 * [Neural Networks for NLP, Carnegie Mellon University](https://www.youtube.com/watch?v=pmcXgNTuHnk&list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs)
