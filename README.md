@@ -98,7 +98,7 @@ A list of resources I have learned from.
 
 
 
-* [Computer Science: Programming with a Purpose, Princeton University, Coursera](https://www.coursera.org/learn/cs-programming-java), Link to [my repo](https://github.com/hughluo/programming_with_a_purpose)
+* [Computer Science: Programming with a Purpose, Princeton University, Coursera](https://www.coursera.org/learn/cs-programming-java), [my repo](https://github.com/hughluo/programming_with_a_purpose)
 * [Algorithms PartI, Princeton University, Coursera](https://www.coursera.org/learn/algorithms-part1), [my repo](https://github.com/hughluo/algorithms_princeton)
 * [Algorithms PartII, Princeton University, Coursera](https://www.coursera.org/learn/algorithms-part2)
 
