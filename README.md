@@ -124,4 +124,4 @@ A list of resources I have learned from.
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
 
 ## Scala
-* [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala)[myrepo](https://github.com/hughluo/functional_programming_in_scala)
+* [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala), [my repo](https://github.com/hughluo/functional_programming_in_scala)
