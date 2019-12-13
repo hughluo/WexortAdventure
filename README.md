@@ -12,16 +12,16 @@ A list of resources I have learned from.
 ## Hardware
 
 
-* [nand2tetris part1](https://www.coursera.org/learn/build-a-computer), Link to [my repo](https://github.com/hughluo/nand2tetris)
+* [nand2tetris part1](https://www.coursera.org/learn/build-a-computer), [my repo](https://github.com/hughluo/nand2tetris)
 
 ## Machine Language and Assembler
 
 
-* [nand2tetris part1](https://www.coursera.org/learn/build-a-computer), Link to [my repo](https://github.com/hughluo/nand2tetris)
+* [nand2tetris part1](https://www.coursera.org/learn/build-a-computer), [my repo](https://github.com/hughluo/nand2tetris)
 
 ## Computation
 
-* [Understanding Computation](https://computationbook.com/), Link to [my repo](https://github.com/hughluo/understanding_computation)
+* [Understanding Computation](https://computationbook.com/), [my repo](https://github.com/hughluo/understanding_computation)
 
 ## Network
 
@@ -39,7 +39,7 @@ A list of resources I have learned from.
 
 
 
-* [Algorithms, Prienceton University, Coursera](https://algs4.cs.princeton.edu/home/), Link to [my repo](https://github.com/hughluo/algorithms_princeton)
+* [Algorithms, Prienceton University, Coursera](https://algs4.cs.princeton.edu/home/), [my repo](https://github.com/hughluo/algorithms_princeton)
 * [Algorithms, Standford University, Coursera](https://www.coursera.org/specializations/algorithms)
 
 # Professional
@@ -92,14 +92,14 @@ A list of resources I have learned from.
 
 
 
-* [Programming with Google Go Specialization, University of California Irvine, Coursera](https://www.coursera.org/specializations/google-golang), Link to [my repo](https://github.com/hughluo/golang_uci)
+* [Programming with Google Go Specialization, University of California Irvine, Coursera](https://www.coursera.org/specializations/google-golang), [my repo](https://github.com/hughluo/golang_uci)
 
 ## Java
 
 
 
 * [Computer Science: Programming with a Purpose, Princeton University, Coursera](https://www.coursera.org/learn/cs-programming-java), Link to [my repo](https://github.com/hughluo/programming_with_a_purpose)
-* [Algorithms PartI, Princeton University, Coursera](https://www.coursera.org/learn/algorithms-part1), Link to [my repo](https://github.com/hughluo/algorithms_princeton)
+* [Algorithms PartI, Princeton University, Coursera](https://www.coursera.org/learn/algorithms-part1), [my repo](https://github.com/hughluo/algorithms_princeton)
 * [Algorithms PartII, Princeton University, Coursera](https://www.coursera.org/learn/algorithms-part2)
 
 ## Javascript
@@ -122,3 +122,6 @@ A list of resources I have learned from.
 
 ## Haskell
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
+
+## Scala
+* [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala)[myrepo](https://github.com/hughluo/functional_programming_in_scala)
