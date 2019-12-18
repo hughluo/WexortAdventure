@@ -9,6 +9,10 @@ A list of resources I have learned from.
 
 * [Discrete Math](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
 
+## Category Theory
+
+* [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
+
 ## Hardware
 
 
