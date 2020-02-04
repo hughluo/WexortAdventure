@@ -1,5 +1,5 @@
 
-My adventure to become a better software engineer.
+My adventure to become a better engineer.
 A list of resources I have learned from.
 
 # Fundamentals
