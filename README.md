@@ -129,3 +129,4 @@ A list of resources I have learned from.
 
 ## Scala
 * [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala), [my repo](https://github.com/hughluo/functional_programming_in_scala)
+* [Programming in Scala](https://booksites.artima.com/programming_in_scala_3ed)
