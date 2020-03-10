@@ -56,6 +56,7 @@ A list of resources I have learned from.
 * [A Philosophy of Software Design](https://www.goodreads.com/en/book/show/39996759-a-philosophy-of-software-design)
 * [Clean Code](https://www.oreilly.com/library/view/clean-code/9780136083238/)
 * [Code Complete](https://www.oreilly.com/library/view/code-complete-second/0735619670/)
+* [Domain Driven Design](https://www.goodreads.com/book/show/179133.Domain_Driven_Design)
 
 # System Design
 
