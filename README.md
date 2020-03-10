@@ -65,6 +65,17 @@ A list of resources I have learned from.
 * [Designing Data Intensive Applications](https://dataintensive.net/)
 * [Streaming Systems](http://streamingbook.net/)
 
+# DevOps
+* [Infrastructure as Code](https://www.oreilly.com/library/view/infrastructure-as-code/9781491924334/)
+* [The Site Reliability Workbook](https://www.oreilly.com/library/view/the-site-reliability/9781492029496/)
+* [Terraform Up & Running](https://www.oreilly.com/library/view/terraform-up/9781492046899/)
+* [Python for DevOps](http://shop.oreilly.com/product/0636920274902.do)
+* [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action-second-edition)
+
+# Microservice
+* [Cloud Native](http://shop.oreilly.com/product/0636920261704.do)
+* [Microservices Patterns](https://www.manning.com/books/microservices-patterns)
+* [Hands-On Microservices with Spring Boot and Spring Cloud](https://www.packtpub.com/eu/web-development/hands-on-microservices-with-spring-boot-and-spring-cloud)
 
 # Specific Domain
 ## Machine Learning & Deep Learning
