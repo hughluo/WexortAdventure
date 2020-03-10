@@ -63,6 +63,7 @@ A list of resources I have learned from.
 
 
 * [Designing Data Intensive Applications](https://dataintensive.net/)
+* [Streaming Systems](http://streamingbook.net/)
 
 
 # Specific Domain
