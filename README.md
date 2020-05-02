@@ -71,6 +71,8 @@ A list of resources I have learned from.
 * [Terraform Up & Running](https://www.oreilly.com/library/view/terraform-up/9781492046899/)
 * [Python for DevOps](http://shop.oreilly.com/product/0636920274902.do)
 * [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action-second-edition)
+* [Terraform in Action](https://www.manning.com/books/terraform-in-action/)
+* [Istio in Action](https://www.manning.com/books/istio-in-action)
 
 # Microservice
 * [Cloud Native](http://shop.oreilly.com/product/0636920261704.do)
