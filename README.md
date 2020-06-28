@@ -74,10 +74,16 @@ A list of resources I have learned from.
 * [Terraform in Action](https://www.manning.com/books/terraform-in-action/)
 * [Istio in Action](https://www.manning.com/books/istio-in-action)
 
+* [Jenkins 2: Up and Running](https://www.oreilly.com/library/view/jenkins-2-up/9781491979587/)
+* [The Phoenix Project](https://itrevolution.com/book/the-phoenix-project/)
+
 # Microservice
 * [Cloud Native](http://shop.oreilly.com/product/0636920261704.do)
 * [Microservices Patterns](https://www.manning.com/books/microservices-patterns)
 * [Hands-On Microservices with Spring Boot and Spring Cloud](https://www.packtpub.com/eu/web-development/hands-on-microservices-with-spring-boot-and-spring-cloud)
+
+# Functional Programming
+* [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity): Brain-friendly way to explain real world (nonacademic) functional thinking
 
 # Specific Domain
 ## Machine Learning & Deep Learning
