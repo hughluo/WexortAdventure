@@ -31,6 +31,7 @@ A list of resources I have learned from.
 
 
 * [Google IT Support Certification](https://www.coursera.org/professional-certificates/google-it-support) Good starting point to learn basics of IT.
+* [Computer Networking: A Top-Down Approach, 6th Edition](https://www.pearson.com/us/higher-education/product/Kurose-Computer-Networking-A-Top-Down-Approach-6th-Edition/9780132856201.html): Fantastic, easy to follow book which explains the nuts and bolts of network, recommend the new version, which also includes software defined network
 
 ## Operating System
 
