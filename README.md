@@ -119,6 +119,7 @@ A list of resources I have learned from.
 
 
 * [Programming with Google Go Specialization, University of California Irvine, Coursera](https://www.coursera.org/specializations/google-golang), [my repo](https://github.com/hughluo/golang_uci): Beginner friendly, easy to follow, I love the accent!
+* [The Go Programming Language](https://www.gopl.io/): Great book for people who have experience in other programming language and want to learn go.
 
 ## Java
 
