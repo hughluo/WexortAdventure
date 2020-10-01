@@ -1,8 +1,10 @@
 
 My adventure to know this world.
 A list of resources I have learned from.
+# Physics
+[Feynman's Lecture](https://www.feynmanlectures.caltech.edu/)
 
-# Fundamentals
+# Computer Science
 
 ## Discrete Mathematics
 
@@ -14,7 +16,6 @@ A list of resources I have learned from.
 * [Category Theory for Programmers](https://github.com/hmemcpy/milewski-ctfp-pdf)
 
 ## Hardware
-
 
 * [nand2tetris part1](https://www.coursera.org/learn/build-a-computer), [my repo](https://github.com/hughluo/nand2tetris): Challenging but rewarding journey to implement from NAND to ALU
 
@@ -40,18 +41,18 @@ A list of resources I have learned from.
 * [The LINUX Programming Interface](http://man7.org/tlpi/) Authorative toolbook, written by maintainer of MAN.
 
 
-## Alogrithm
+### Alogrithm
 
 
 
 * [Algorithms, Princeton University, Coursera](https://algs4.cs.princeton.edu/home/), [my repo](https://github.com/hughluo/algorithms_princeton): Brilliant course to learn algorithm and data structure from inventor of Red-black-tree.
 * [Algorithms, Standford University, Coursera](https://www.coursera.org/specializations/algorithms): It's difficult to follow. You should consider the course from Princeton over this one.
 
-# Professional
+## Professional
 
 * [The Clean Coder](https://www.oreilly.com/library/view/the-clean-coder/9780132542913/): It's a good read though quite verbose.
 
-# Software Design
+## Software Design
 
 
 * [A Philosophy of Software Design](https://www.goodreads.com/en/book/show/39996759-a-philosophy-of-software-design)
@@ -59,14 +60,14 @@ A list of resources I have learned from.
 * [Code Complete](https://www.oreilly.com/library/view/code-complete-second/0735619670/)
 * [Domain Driven Design](https://www.goodreads.com/book/show/179133.Domain_Driven_Design): Must read. Easy to congest.
 
-# System Design
+## System Design
 
 
 
 * [Designing Data Intensive Applications](https://dataintensive.net/): Really great book. Cover great amount of ideas of Data and distributed system.
 * [Streaming Systems](http://streamingbook.net/): Great book. With its animation I still feel fonfusing about watermark though.
 
-# DevOps
+## DevOps
 * [Infrastructure as Code](https://www.oreilly.com/library/view/infrastructure-as-code/9781491924334/)
 * [The Site Reliability Workbook](https://www.oreilly.com/library/view/the-site-reliability/9781492029496/)
 * [Terraform Up & Running](https://www.oreilly.com/library/view/terraform-up/9781492046899/)
@@ -78,16 +79,16 @@ A list of resources I have learned from.
 * [Jenkins 2: Up and Running](https://www.oreilly.com/library/view/jenkins-2-up/9781491979587/)
 * [The Phoenix Project](https://itrevolution.com/book/the-phoenix-project/): Great book, as a novel quite easy to read to get a great picture of real life IT and how DevOps make the impact.
 
-# Microservice
+## Microservice
 * [Cloud Native](http://shop.oreilly.com/product/0636920261704.do)
 * [Microservices Patterns](https://www.manning.com/books/microservices-patterns)
 * [Hands-On Microservices with Spring Boot and Spring Cloud](https://www.packtpub.com/eu/web-development/hands-on-microservices-with-spring-boot-and-spring-cloud)
 
-# Functional Programming
+## Functional Programming
 * [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity): Brain-friendly way to explain real world (nonacademic) functional thinking
 
-# Specific Domain
-## Machine Learning & Deep Learning
+## Specific Domain
+### Machine Learning & Deep Learning
 
 
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/): Great book to learn the theory and get hands-on in ML and DL.
@@ -96,12 +97,12 @@ A list of resources I have learned from.
 * [Convolutional Neural Networks for Visual Recognition, Standford University](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv): CNN zero to hero.
 * [Neural Networks for NLP, Carnegie Mellon University](https://www.youtube.com/watch?v=pmcXgNTuHnk&list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs)
 
-## Process Mining
+### Process Mining
 * [Process Mining: Data science in Action, Eindhoven University of Technology, Coursera](https://www.coursera.org/learn/process-mining)
 
-# Language
+## Programming Language
 
-## Python
+### Python
 
 
 
@@ -114,14 +115,14 @@ A list of resources I have learned from.
 * [python-pattern](https://github.com/faif/python-patterns)
 * [Python Patterns](https://python-patterns.guide/)
 
-## Go
+### Go
 
 
 
 * [Programming with Google Go Specialization, University of California Irvine, Coursera](https://www.coursera.org/specializations/google-golang), [my repo](https://github.com/hughluo/golang_uci): Beginner friendly, easy to follow, I love the accent!
 * [The Go Programming Language](https://www.gopl.io/): Great book for people who have experience in other programming language and want to learn go.
 
-## Java
+### Java
 
 
 
@@ -129,14 +130,14 @@ A list of resources I have learned from.
 * [Algorithms PartI, Princeton University, Coursera](https://www.coursera.org/learn/algorithms-part1), [my repo](https://github.com/hughluo/algorithms_princeton) Fantastic course. Though the assignment is quite challenging.
 * [Algorithms PartII, Princeton University, Coursera](https://www.coursera.org/learn/algorithms-part2)
 
-## Javascript
+### Javascript
 
 
 
 * [freecodecamp](https://www.freecodecamp.org/): Interactive learning of JS. Quite cool.
 * [JavaScript for Web Developers](https://www.wiley.com/en-us/Professional+JavaScript+for+Web+Developers%2C+4th+Edition-p-9781119366577)
 
-## C++
+### C++
 
 
 
