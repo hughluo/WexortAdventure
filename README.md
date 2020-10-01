@@ -2,6 +2,8 @@
 My adventure to know this world.
 A list of resources I have learned from.
 # Physics
+[Seven Brief Lessons on Physics](https://www.goodreads.com/book/show/25734172-seven-brief-lessons-on-physics): interesting little book, which sparked my interest to learn more about Physics.
+[One, Two, Three...Infinity](https://www.goodreads.com/book/show/52670.One_Two_Three_Infinity)
 [Feynman's Lecture](https://www.feynmanlectures.caltech.edu/)
 
 # Computer Science
