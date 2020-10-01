@@ -1,5 +1,5 @@
 
-My adventure to become a better engineer.
+My adventure to know this world.
 A list of resources I have learned from.
 
 # Fundamentals
