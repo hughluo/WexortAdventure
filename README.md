@@ -145,7 +145,8 @@ A list of resources I have learned from.
 
 
 
-* [Programm Design and Algorithm, Peiking University, Coursera](https://www.coursera.org/specializations/biancheng-suanfa) It's okay.
+* [Programm Design and Algorithm, Peiking University, Coursera](https://www.coursera.org/specializations/biancheng-suanfa) It's in Chinese. After this, I think I will prefer english courses over chinese. 
+* [Programming: Principles and Practice Using C++], Written by Bjarne Stroustrup. If I could go back I would have read this to start learning programming.
 * [Programming Paradigm, Standford University](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PLD28639E2FFC4B86A)
 
 ## C
