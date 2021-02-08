@@ -32,6 +32,7 @@ A list of resources I have learned from.
 
 * [Google IT Support Certification](https://www.coursera.org/professional-certificates/google-it-support) Good starting point to learn basics of IT.
 * [Computer Networking: A Top-Down Approach, 6th Edition](https://www.pearson.com/us/higher-education/product/Kurose-Computer-Networking-A-Top-Down-Approach-6th-Edition/9780132856201.html): Fantastic, easy to follow book which explains the nuts and bolts of network, recommend the new version, which also includes software defined network
+* [A overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) Well written overview of HTTP, also provide links to deep dive into related topics
 
 ## Operating System
 
@@ -68,7 +69,6 @@ A list of resources I have learned from.
 
 ## DevOps
 * [Infrastructure as Code](https://www.oreilly.com/library/view/infrastructure-as-code/9781491924334/)
-* [The Site Reliability Workbook](https://www.oreilly.com/library/view/the-site-reliability/9781492029496/)
 * [Terraform Up & Running](https://www.oreilly.com/library/view/terraform-up/9781492046899/)
 * [Python for DevOps](http://shop.oreilly.com/product/0636920274902.do)
 * [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action-second-edition) Great book, explain how K8s work under the hood.
@@ -77,6 +77,11 @@ A list of resources I have learned from.
 
 * [Jenkins 2: Up and Running](https://www.oreilly.com/library/view/jenkins-2-up/9781491979587/)
 * [The Phoenix Project](https://itrevolution.com/book/the-phoenix-project/): Great book, as a novel quite easy to read to get a great picture of real life IT and how DevOps make the impact.
+
+## Site Reliability Engineering
+* [Site Reliability Engineering](https://sre.google/books/) This book summarizes SRE in Google.
+* [The Site Reliability Workbook](https://sre.google/books/) A follow-up of the SRE book, focus more on how to practice it.
+
 
 ## Microservice
 * [Cloud Native](http://shop.oreilly.com/product/0636920261704.do)
