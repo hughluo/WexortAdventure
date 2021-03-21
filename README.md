@@ -117,16 +117,10 @@ A list of resources I have learned from.
 * [Python Patterns](https://python-patterns.guide/)
 
 ### Go
-
-
-
 * [Programming with Google Go Specialization, University of California Irvine, Coursera](https://www.coursera.org/specializations/google-golang), [my repo](https://github.com/hughluo/golang_uci): Beginner friendly, easy to follow, I love the accent!
 * [The Go Programming Language](https://www.gopl.io/): Great book for people who have experience in other programming language and want to learn go.
 
 ### Java
-
-
-
 * [Computer Science: Programming with a Purpose, Princeton University, Coursera](https://www.coursera.org/learn/cs-programming-java), [my repo](https://github.com/hughluo/programming_with_a_purpose): Excellent course. Beginner friendly as first course. Though the assignment is quite challenging.
 * [Algorithms PartI, Princeton University, Coursera](https://www.coursera.org/learn/algorithms-part1), [my repo](https://github.com/hughluo/algorithms_princeton) Fantastic course. Though the assignment is quite challenging.
 * [Algorithms PartII, Princeton University, Coursera](https://www.coursera.org/learn/algorithms-part2)
@@ -143,8 +137,8 @@ A list of resources I have learned from.
 * [JavaScript for Web Developers](https://www.wiley.com/en-us/Professional+JavaScript+for+Web+Developers%2C+4th+Edition-p-9781119366577)
 
 ### C++
-* [Programm Design and Algorithm, Peiking University, Coursera](https://www.coursera.org/specializations/biancheng-suanfa) It's in Chinese. After this, I think I will prefer english courses over chinese. 
-* [Programming: Principles and Practice Using C++], Written by Bjarne Stroustrup. If I could I would have read this to learning programming.
+* [Programm Design and Algorithm, Peiking University, Coursera](https://www.coursera.org/specializations/biancheng-suanfa): It's in Chinese. After this, I think I will prefer english courses over chinese. 
+* [Programming: Principles and Practice Using C++](https://www.goodreads.com/book/show/2914066-programming): Written by Bjarne Stroustrup. If I could I would have read this to learning programming.
 * [Programming Paradigm, Standford University](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PLD28639E2FFC4B86A)
 
 ### C
