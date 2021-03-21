@@ -7,7 +7,6 @@ A list of resources I have learned from.
 
 ## Discrete Mathematics
 
-
 * [Discrete Math](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxersk8fUxiUMSIx0DBqsKZS)
 
 ## Category Theory
@@ -19,51 +18,35 @@ A list of resources I have learned from.
 * [nand2tetris part1](https://www.coursera.org/learn/build-a-computer), [my repo](https://github.com/hughluo/nand2tetris): Challenging but rewarding journey to implement from NAND to ALU
 
 ## Machine Language and Assembler
-
-
-* [nand2tetris part1](https://www.coursera.org/learn/build-a-computer), [my repo](https://github.com/hughluo/nand2tetris) Write a assebmler to translate maching language to assemble language
+* [nand2tetris part1](https://www.coursera.org/learn/build-a-computer), [my repo](https://github.com/hughluo/nand2tetris) Write a assebmler to translate machine language to assemble language
 
 ## Computation
-
 * [Understanding Computation](https://computationbook.com/), [my repo](https://github.com/hughluo/understanding_computation) Implement Turing Machine and understand basics of computation theory. Easy to follow.
 
 ## Network
-
-
 * [Google IT Support Certification](https://www.coursera.org/professional-certificates/google-it-support) Good starting point to learn basics of IT.
 * [Computer Networking: A Top-Down Approach, 6th Edition](https://www.pearson.com/us/higher-education/product/Kurose-Computer-Networking-A-Top-Down-Approach-6th-Edition/9780132856201.html): Fantastic, easy to follow book which explains the nuts and bolts of network, recommend the new version, which also includes software defined network
 * [A overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview) Well written overview of HTTP, also provide links to deep dive into related topics
 
 ## Operating System
-
-
 * [nand2tetris part2](https://www.coursera.org/learn/nand2tetris2)
 * [The LINUX Programming Interface](http://man7.org/tlpi/) Authorative toolbook, written by maintainer of MAN.
 
 
 ### Alogrithm
-
-
-
 * [Algorithms, Princeton University, Coursera](https://algs4.cs.princeton.edu/home/), [my repo](https://github.com/hughluo/algorithms_princeton): Brilliant course to learn algorithm and data structure from inventor of Red-black-tree.
 * [Algorithms, Standford University, Coursera](https://www.coursera.org/specializations/algorithms): It's difficult to follow. You should consider the course from Princeton over this one.
 
 ## Professional
-
 * [The Clean Coder](https://www.oreilly.com/library/view/the-clean-coder/9780132542913/): It's a good read though quite verbose.
 
 ## Software Design
-
-
 * [A Philosophy of Software Design](https://www.goodreads.com/en/book/show/39996759-a-philosophy-of-software-design)
 * [Clean Code](https://www.oreilly.com/library/view/clean-code/9780136083238/)
 * [Code Complete](https://www.oreilly.com/library/view/code-complete-second/0735619670/)
 * [Domain Driven Design](https://www.goodreads.com/book/show/179133.Domain_Driven_Design): Must read. Easy to congest.
 
 ## System Design
-
-
-
 * [Designing Data Intensive Applications](https://dataintensive.net/): Really great book. Cover great amount of ideas of Data and distributed system.
 * [Streaming Systems](http://streamingbook.net/): Great book. With its animation I am still confused about watermark though.
 
@@ -74,7 +57,6 @@ A list of resources I have learned from.
 * [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action-second-edition) Great book, explain how K8s work under the hood.
 * [Terraform in Action](https://www.manning.com/books/terraform-in-action/): Great book, explain how TF work under the hood.
 * [Istio in Action](https://www.manning.com/books/istio-in-action): Great book, explain how istio work under the hood.
-
 * [Jenkins 2: Up and Running](https://www.oreilly.com/library/view/jenkins-2-up/9781491979587/)
 * [The Phoenix Project](https://itrevolution.com/book/the-phoenix-project/): Great book, as a novel quite easy to read to get a great picture of real life IT and how DevOps make the impact.
 
@@ -82,19 +64,18 @@ A list of resources I have learned from.
 * [Site Reliability Engineering](https://sre.google/books/) This book summarizes SRE in Google.
 * [The Site Reliability Workbook](https://sre.google/books/) A follow-up of the SRE book, focus more on how to practice it.
 
-
 ## Microservice
 * [Cloud Native](http://shop.oreilly.com/product/0636920261704.do)
 * [Microservices Patterns](https://www.manning.com/books/microservices-patterns)
 * [Hands-On Microservices with Spring Boot and Spring Cloud](https://www.packtpub.com/eu/web-development/hands-on-microservices-with-spring-boot-and-spring-cloud)
 
 ## Functional Programming
+
 * [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity): Brain-friendly way to explain real world (nonacademic) functional thinking
 
 ## Specific Domain
+
 ### Machine Learning & Deep Learning
-
-
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/): Great book to learn the theory and get hands-on in ML and DL.
 * [Deep Learning](http://www.deeplearningbook.org/): Too great to understand...
 * [Machine Learning, Standford University, Coursera](https://www.coursera.org/learn/machine-learning): Excellent course to get started with ML.
