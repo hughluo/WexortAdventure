@@ -134,31 +134,28 @@ A list of resources I have learned from.
 * [Algorithms PartI, Princeton University, Coursera](https://www.coursera.org/learn/algorithms-part1), [my repo](https://github.com/hughluo/algorithms_princeton) Fantastic course. Though the assignment is quite challenging.
 * [Algorithms PartII, Princeton University, Coursera](https://www.coursera.org/learn/algorithms-part2)
 
+### Scala
+* [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala), [my repo](https://github.com/hughluo/functional_programming_in_scala): Fantastic Course from the inventor. Just learn it if you interested in Scala.
+* [Programming in Scala](https://booksites.artima.com/programming_in_scala_3ed): Authorative Book from the inventor.
+
+### Kotlin
+* [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers/): Well-structured course to get started with Kotlin, language design considerations are also included.
+
 ### Javascript
-
-
-
 * [freecodecamp](https://www.freecodecamp.org/): Interactive learning of JS. Quite cool.
 * [JavaScript for Web Developers](https://www.wiley.com/en-us/Professional+JavaScript+for+Web+Developers%2C+4th+Edition-p-9781119366577)
 
 ### C++
-
-
-
 * [Programm Design and Algorithm, Peiking University, Coursera](https://www.coursera.org/specializations/biancheng-suanfa) It's in Chinese. After this, I think I will prefer english courses over chinese. 
 * [Programming: Principles and Practice Using C++], Written by Bjarne Stroustrup. If I could go back I would have read this to start learning programming.
 * [Programming Paradigm, Standford University](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PLD28639E2FFC4B86A)
 
-## C
-
+### C
 * [Programming Paradigm, Standford University](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PLD28639E2FFC4B86A)
 
-## Haskell
+### Haskell
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/): Great book with funny pics.
 
-## Scala
-* [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala), [my repo](https://github.com/hughluo/functional_programming_in_scala): Fantastic Course from the inventor. Just learn it if you interested in Scala.
-* [Programming in Scala](https://booksites.artima.com/programming_in_scala_3ed): Authorative Book from the inventor.
 
 # Physics
 * [Seven Brief Lessons on Physics](https://www.goodreads.com/book/show/25734172-seven-brief-lessons-on-physics): interesting little book, which sparked my interest to learn more about Physics.
