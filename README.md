@@ -107,10 +107,7 @@ A list of resources I have learned from.
 ## Programming Language
 
 ### Python
-
-
-
-* [Learn Python the Hard Way](https://books.google.de/books/about/Learn_Python_3_the_Hard_Way.html?id=93YpDwAAQBAJ&source=kp_book_description&redir_esc=y): Just write the code and get the feel. Great book to beginner. It can test whether you are interested in programming.
+* [Learn Python the Hard Way](https://books.google.de/books/about/Learn_Python_3_the_Hard_Way.html?id=93YpDwAAQBAJ&source=kp_book_description&redir_esc=y): Just write the code and get the feel throughout the book. Great book for beginner. It can test whether programming is your thing or not.
 * [Introduction to Programming in Python](https://introcs.cs.princeton.edu/python/home/)
 * [Python Cookbook](http://shop.oreilly.com/product/0636920027072.do): It's really a cookbook. Recipes for problem-solving in python.
 * [Fluent Python](http://shop.oreilly.com/product/0636920032519.do)
@@ -135,7 +132,7 @@ A list of resources I have learned from.
 * [Algorithms PartII, Princeton University, Coursera](https://www.coursera.org/learn/algorithms-part2)
 
 ### Scala
-* [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala), [my repo](https://github.com/hughluo/functional_programming_in_scala): Fantastic Course from the inventor. Just learn it if you interested in Scala.
+* [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala), [my repo](https://github.com/hughluo/functional_programming_in_scala): Fantastic course from the inventor. Just learn it if you interested in Scala.
 * [Programming in Scala](https://booksites.artima.com/programming_in_scala_3ed): Authorative Book from the inventor.
 
 ### Kotlin
@@ -147,7 +144,7 @@ A list of resources I have learned from.
 
 ### C++
 * [Programm Design and Algorithm, Peiking University, Coursera](https://www.coursera.org/specializations/biancheng-suanfa) It's in Chinese. After this, I think I will prefer english courses over chinese. 
-* [Programming: Principles and Practice Using C++], Written by Bjarne Stroustrup. If I could go back I would have read this to start learning programming.
+* [Programming: Principles and Practice Using C++], Written by Bjarne Stroustrup. If I could I would have read this to learning programming.
 * [Programming Paradigm, Standford University](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PLD28639E2FFC4B86A)
 
 ### C
@@ -155,7 +152,6 @@ A list of resources I have learned from.
 
 ### Haskell
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/): Great book with funny pics.
-
 
 # Physics
 * [Seven Brief Lessons on Physics](https://www.goodreads.com/book/show/25734172-seven-brief-lessons-on-physics): interesting little book, which sparked my interest to learn more about Physics.
