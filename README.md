@@ -65,7 +65,7 @@ A list of resources I have learned from.
 
 
 * [Designing Data Intensive Applications](https://dataintensive.net/): Really great book. Cover great amount of ideas of Data and distributed system.
-* [Streaming Systems](http://streamingbook.net/): Great book. With its animation I still feel fonfusing about watermark though.
+* [Streaming Systems](http://streamingbook.net/): Great book. With its animation I am still confused about watermark though.
 
 ## DevOps
 * [Infrastructure as Code](https://www.oreilly.com/library/view/infrastructure-as-code/9781491924334/)
