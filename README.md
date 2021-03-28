@@ -111,7 +111,7 @@ A list of resources I have learned from.
 * [Programming in Scala](https://booksites.artima.com/programming_in_scala_3ed): Authorative Book from the inventor.
 
 ### Kotlin
-* [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers/): Well-structured course to get started with Kotlin, language design considerations are also included.
+* [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers/), [my repo](https://github.com/hughluo/kotlin-board-game): Well-structured course to get started with Kotlin, language design considerations are also included.
 
 ### Javascript
 * [freecodecamp](https://www.freecodecamp.org/): Interactive learning of JS. Quite cool.
