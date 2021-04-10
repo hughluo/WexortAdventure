@@ -35,7 +35,8 @@ A list of resources I have learned from.
 
 ### Alogrithm
 * [Algorithms, Princeton University, Coursera](https://algs4.cs.princeton.edu/home/), [my repo](https://github.com/hughluo/algorithms_princeton): Brilliant course to learn algorithm and data structure from inventor of Red-black-tree.
-* [Algorithms, Standford University, Coursera](https://www.coursera.org/specializations/algorithms): It's difficult to follow. You should consider the course from Princeton over this one.
+* [Algorithms, Standford University, Coursera](https://www.coursera.org/specializations/algorithms): It's difficult to follow. I would prefer the course from Princeton over this one.
+* [Design and Analysis of Algorithms, MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/): In-Depth course in algorithms.
 
 ## Professional
 * [The Clean Coder](https://www.oreilly.com/library/view/the-clean-coder/9780132542913/): It's a good read though quite verbose.
@@ -122,7 +123,7 @@ A list of resources I have learned from.
 * [Programm Design and Algorithm, Peiking University, Coursera](https://www.coursera.org/specializations/biancheng-suanfa): It's in Chinese. After this, I think I will prefer english courses over chinese. 
 * [Programming: Principles and Practice Using C++](https://www.goodreads.com/book/show/2914066-programming): Written by Bjarne Stroustrup. If I could I would have read this to learning programming.
 * [Programming Paradigm, Standford University](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PLD28639E2FFC4B86A)
-* [Object-Oriented Data Structures in C++](https://www.coursera.org/learn/cs-fundamentals-1): Great cpp basics for people have prior experience in programming.
+* [Object-Oriented Data Structures in C++, University of Illinois at Urbana-Champaign](https://www.coursera.org/learn/cs-fundamentals-1): Great cpp basics for people have prior experience in programming.
 
 ### C
 * [Programming Paradigm, Standford University](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PLD28639E2FFC4B86A)
