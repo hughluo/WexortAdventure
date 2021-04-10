@@ -122,6 +122,7 @@ A list of resources I have learned from.
 * [Programm Design and Algorithm, Peiking University, Coursera](https://www.coursera.org/specializations/biancheng-suanfa): It's in Chinese. After this, I think I will prefer english courses over chinese. 
 * [Programming: Principles and Practice Using C++](https://www.goodreads.com/book/show/2914066-programming): Written by Bjarne Stroustrup. If I could I would have read this to learning programming.
 * [Programming Paradigm, Standford University](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PLD28639E2FFC4B86A)
+* [Object-Oriented Data Structures in C++](https://www.coursera.org/learn/cs-fundamentals-1): Great cpp basics for people have prior experience in programming.
 
 ### C
 * [Programming Paradigm, Standford University](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PLD28639E2FFC4B86A)
