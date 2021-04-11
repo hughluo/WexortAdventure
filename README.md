@@ -124,6 +124,8 @@ A list of resources I have learned from.
 * [Programming: Principles and Practice Using C++](https://www.goodreads.com/book/show/2914066-programming): Written by Bjarne Stroustrup. If I could I would have read this to learning programming.
 * [Programming Paradigm, Standford University](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PLD28639E2FFC4B86A)
 * [Object-Oriented Data Structures in C++, University of Illinois at Urbana-Champaign](https://www.coursera.org/learn/cs-fundamentals-1): Great cpp basics for people have prior experience in programming.
+* [Ordered Data Structures
+](https://www.coursera.org/learn/cs-fundamentals-2/), [my repo](https://github.com/hughluo/UIUC_cpp)
 
 ### C
 * [Programming Paradigm, Standford University](https://www.youtube.com/watch?v=Ps8jOj7diA0&list=PLD28639E2FFC4B86A)
