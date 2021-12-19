@@ -15,10 +15,10 @@ A list of resources I have learned from.
 
 ## Hardware
 
-* [nand2tetris part1](https://www.coursera.org/learn/build-a-computer), [my repo](https://github.com/hughluo/nand2tetris): Challenging but rewarding journey to implement from NAND to ALU
+* [nand2tetris part1](https://www.coursera.org/learn/build-a-computer), [my repo](https://github.com/hughluo/nand2tetris): Challenging but rewarding journey to implement from NAND to ALU.
 
 ## Machine Language and Assembler
-* [nand2tetris part1](https://www.coursera.org/learn/build-a-computer), [my repo](https://github.com/hughluo/nand2tetris) Write a assebmler to translate machine language to assemble language
+* [nand2tetris part1](https://www.coursera.org/learn/build-a-computer), [my repo](https://github.com/hughluo/nand2tetris) Write a assebmler to translate machine language to assemble language.
 
 ## Computation
 * [Understanding Computation](https://computationbook.com/), [my repo](https://github.com/hughluo/understanding_computation) Implement Turing Machine and understand basics of computation theory. Easy to follow.
@@ -33,28 +33,25 @@ A list of resources I have learned from.
 * [The LINUX Programming Interface](http://man7.org/tlpi/) Authorative toolbook, written by maintainer of MAN.
 
 
-### Alogrithm
+## Alogrithm
 * [Algorithms, Princeton University, Coursera](https://algs4.cs.princeton.edu/home/), [my repo](https://github.com/hughluo/algorithms_princeton): Brilliant course to learn algorithm and data structure from inventor of Red-black-tree.
 * [Algorithms, Standford University, Coursera](https://www.coursera.org/specializations/algorithms): It's difficult to follow. I would prefer the course from Princeton over this one.
 * [Design and Analysis of Algorithms, MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/): In-Depth course in algorithms.
+* [Competitive Programmer’s Handbook](https://cses.fi/book/book.pdf): An amazing book about competitive programming must-knowns and popluar algorithms.
 
-## Professional
+## Career
 * [The Clean Coder](https://www.oreilly.com/library/view/the-clean-coder/9780132542913/): It's a good read though quite verbose.
+* [Building a Career in Software](https://www.oreilly.com/library/view/building-a-career/9781484261477/): A must-read for people in software industry. It help me to peoperly set my career goal.
 
 ## Software Design
-* [A Philosophy of Software Design](https://www.goodreads.com/en/book/show/39996759-a-philosophy-of-software-design)
-* [Clean Code](https://www.oreilly.com/library/view/clean-code/9780136083238/)
-* [Code Complete](https://www.oreilly.com/library/view/code-complete-second/0735619670/)
+* [A Philosophy of Software Design](https://www.goodreads.com/en/book/show/39996759-a-philosophy-of-software-design): A thin book packed with great thoughts about how to design good software.
 * [Domain Driven Design](https://www.goodreads.com/book/show/179133.Domain_Driven_Design): Must read. Easy to congest.
 
 ## System Design
-* [Designing Data Intensive Applications](https://dataintensive.net/): Really great book. Cover great amount of ideas of Data and distributed system.
+* [Designing Data Intensive Applications](https://dataintensive.net/): Exceptional book. Covered a great amount of ideas behind system design.
 * [Streaming Systems](http://streamingbook.net/): Great book. With its animation I am still confused about watermark though.
 
 ## DevOps
-* [Infrastructure as Code](https://www.oreilly.com/library/view/infrastructure-as-code/9781491924334/)
-* [Terraform Up & Running](https://www.oreilly.com/library/view/terraform-up/9781492046899/)
-* [Python for DevOps](http://shop.oreilly.com/product/0636920274902.do)
 * [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action-second-edition) Great book, explain how K8s work under the hood.
 * [Terraform in Action](https://www.manning.com/books/terraform-in-action/): Great book, explain how TF work under the hood.
 * [Istio in Action](https://www.manning.com/books/istio-in-action): Great book, explain how istio work under the hood.
@@ -68,23 +65,19 @@ A list of resources I have learned from.
 ## Microservice
 * [Cloud Native](http://shop.oreilly.com/product/0636920261704.do)
 * [Microservices Patterns](https://www.manning.com/books/microservices-patterns)
-* [Hands-On Microservices with Spring Boot and Spring Cloud](https://www.packtpub.com/eu/web-development/hands-on-microservices-with-spring-boot-and-spring-cloud)
+* [Hands-On Microservices with Spring Boot and Spring Cloud](https://www.packtpub.com/eu/web-development/hands-on-microservices-with-spring-boot-and-spring-cloud): Good read about microservices with Spring. Covered a lot of microservice pattern and its implementation in Spring eco system.
 
 ## Functional Programming
 
-* [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity): Brain-friendly way to explain real world (nonacademic) functional thinking
+* [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity): Brain-friendly way to explain real world (nonacademic) functional thinking.
 
-## Specific Domain
-
-### Machine Learning & Deep Learning
+## Machine Learning & Deep Learning
 * [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/): Great book to learn the theory and get hands-on in ML and DL.
 * [Deep Learning](http://www.deeplearningbook.org/): Too great to understand...
 * [Machine Learning, Standford University, Coursera](https://www.coursera.org/learn/machine-learning): Excellent course to get started with ML.
 * [Convolutional Neural Networks for Visual Recognition, Standford University](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv): CNN zero to hero.
 * [Neural Networks for NLP, Carnegie Mellon University](https://www.youtube.com/watch?v=pmcXgNTuHnk&list=PL8PYTP1V4I8Ajj7sY6sdtmjgkt7eo2VMs)
 
-### Process Mining
-* [Process Mining: Data science in Action, Eindhoven University of Technology, Coursera](https://www.coursera.org/learn/process-mining)
 
 ## Programming Language
 
@@ -116,7 +109,6 @@ A list of resources I have learned from.
 * [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers/), [my repo](https://github.com/hughluo/kotlin-board-game): Well-structured course to get started with Kotlin, language design considerations are also included.
 
 ### Javascript
-* [freecodecamp](https://www.freecodecamp.org/): Interactive learning of JS. Quite cool.
 * [JavaScript for Web Developers](https://www.wiley.com/en-us/Professional+JavaScript+for+Web+Developers%2C+4th+Edition-p-9781119366577)
 
 ### C++
@@ -131,6 +123,8 @@ A list of resources I have learned from.
 
 ### Haskell
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/): Great book with funny pics.
+
+
 
 # Physics
 * [Seven Brief Lessons on Physics](https://www.goodreads.com/book/show/25734172-seven-brief-lessons-on-physics): interesting little book, which sparked my interest to learn more about Physics.
