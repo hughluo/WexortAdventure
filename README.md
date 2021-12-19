@@ -123,3 +123,6 @@ A list of resources I have learned from.
 
 ### Haskell
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/): Great book with funny pics.
+
+### Rust
+* [Rust in Action](https://www.manning.com/books/rust-in-action)
