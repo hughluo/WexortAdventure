@@ -100,6 +100,7 @@ A list of resources I have learned from.
 * [Algorithms PartI, Princeton University, Coursera](https://www.coursera.org/learn/algorithms-part1), [my repo](https://github.com/hughluo/algorithms_princeton) Fantastic course. Though the assignment is quite challenging.
 * [Algorithms PartII, Princeton University, Coursera](https://www.coursera.org/learn/algorithms-part2)
 * [Effective Java](https://www.oreilly.com/library/view/effective-java/9780134686097/): Must-read for everyone who want to use Java for non-trivial task.
+* [Java Performance, 2nd Edition](https://www.oreilly.com/library/view/java-performance-2nd/9781492056102/)
 
 ### Scala
 * [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala), [my repo](https://github.com/hughluo/functional_programming_in_scala): Fantastic course from the inventor. Just learn it if you interested in Scala.
