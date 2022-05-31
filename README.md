@@ -41,7 +41,7 @@ A list of resources I have learned from.
 
 ## Career
 * [The Clean Coder](https://www.oreilly.com/library/view/the-clean-coder/9780132542913/): It's a good read though quite verbose.
-* [Building a Career in Software](https://www.oreilly.com/library/view/building-a-career/9781484261477/): A must-read for people in software industry. It help me to peoperly set my career goal.
+* [Building a Career in Software](https://www.oreilly.com/library/view/building-a-career/9781484261477/): A must-read for people in software industry. It help me to properly set my career goal.
 
 ## Software Design
 * [A Philosophy of Software Design](https://www.goodreads.com/en/book/show/39996759-a-philosophy-of-software-design): A thin book packed with great thoughts about how to design good software.
