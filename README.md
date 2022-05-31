@@ -2,6 +2,10 @@
 My adventure to know this world.
 A list of resources I have learned from.
 
+# Product Management
+
+* [Inspired: How to Create Tech Products Customers Love](https://www.goodreads.com/en/book/show/35249663-inspired)
+* [Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value](https://www.goodreads.com/book/show/58046715-continuous-discovery-habits)
 
 # Computer Science
 
